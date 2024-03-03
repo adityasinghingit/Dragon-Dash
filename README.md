@@ -1,2 +1,2 @@
 # Dragon-Dash🐲
-Hey! this is a simple game by using javascript.
+Hey! this is my game by using javascript.
