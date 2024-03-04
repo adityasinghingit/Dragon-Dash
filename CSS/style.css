@@ -10,7 +10,7 @@ body{
 }
 
 .gameContainer{
-    background-image: url(/IMAGE/background.gif);
+    background-image: url(/Dragon-Dash/IMAGE/background.gif);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     width: 100%;
@@ -18,7 +18,7 @@ body{
 }
 
 .dino{
-    background-image: url(/IMAGE/dino.gif);
+    background-image: url(/Dragon-Dash/IMAGE/dino.gif);
     background-repeat: no-repeat;
     background-size: cover;
     width: 250px;
@@ -35,7 +35,7 @@ body{
 .obstacles{
     width: 250px;
     height: 185px;
-    background-image: url(/IMAGE/walking\ drag.gif);
+    background-image: url(/Dragon-Dash/IMAGE/walking\ drag.gif);
     background-size: cover;
     position: absolute;
     bottom: 0;

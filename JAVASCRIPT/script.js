@@ -1,8 +1,8 @@
 score = 0;
 cross = true;
 
-audio = new Audio("/Audio/game_time.mp3");
-audiogo = new Audio("/Audio/screaming_goat.mp3");
+audio = new Audio("/Dragon-Dash/Audio/game_time.mp3");
+audiogo = new Audio("/Dragon-Dash/Audio/screaming_goat.mp3");
 setTimeout(() => {
     audio.play();
 }, 1000);
